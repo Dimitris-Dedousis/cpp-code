@@ -1,3 +1,4 @@
+//  g++ -o make-menu make-menu.cpp -lncurses -lmenu -lpanel
 #include <ncurses.h>
 #include <menu.h>
 #include <stdlib.h>
